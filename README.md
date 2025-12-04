@@ -51,3 +51,4 @@ INSERT INTO users (name, email, password_hash, role) VALUES
 ('Admin', 'admin@example.com', '$2y$10$F4C9bQ02Im0b2d7dh/3Gje4d0F1kQv8a0h2u0YqvGk0fQy5cYt2kS', 'admin'),
 ('User Demo', 'user@example.com', '$2y$10$F4C9bQ02Im0b2d7dh/3Gje4d0F1kQv8a0h2u0YqvGk0fQy5cYt2kS', 'user');"# PraktikumJaringan" 
 "# PraktikumJaringan" 
+"# PemogramanJaringan" 
